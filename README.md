@@ -1,1 +1,1 @@
-# SQL-Query-Generator
+# SQL-Query-Generator-Project
